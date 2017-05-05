@@ -17,7 +17,7 @@ Principles to keep in mind if you want your applications to be secure:
 - Using crypto doesn't mean you're secure (attackers will look for a weaker link)
 - Be aware of [buffer overflows](http://www.linuxjournal.com/article/6701) and how to protect against them
 
-Books about that subject:
+Books about the subject:
 
 - [**Writing Secure Code 2nd Edition**](http://rads.stackoverflow.com/amzn/click/0735617228)
 - [**Security Engineering**](http://www.cl.cam.ac.uk/~rja14/book.html)
@@ -26,7 +26,7 @@ Books about that subject:
 - [Exploiting Software](https://docs.google.com/viewer?url=http://www.usenix.org/events/sec04/tech/slides/mcgraw.pdf)
 - [Secure Programming for Linux and Unix HOWTO](http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html)
 
-Security application best practices:
+Application security best practices:
 
 - [Codebashing](http://www.codebashing.com/sql_demo) (paid)
 - [Security Innovation](https://www.securityinnovation.com/training/application-security) (paid)
